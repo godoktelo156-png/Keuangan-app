@@ -1,7 +1,7 @@
 {
-  "name": "Keuangan",
+  "name": "Keuangan App",
   "short_name": "Keuangan",
-  "start_url": "/",
+  "start_url": "/Keuangan-app/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
