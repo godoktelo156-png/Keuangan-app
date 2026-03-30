@@ -17,6 +17,10 @@ input, select { width: 100%; padding: 10px; margin-bottom: 8px; border-radius: 8
 if ("serviceWorker" in navigator) {
   navigator.serviceWorker.register("service-worker.js");
 }
+</script><script>
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js');
+}
 </script>
 <body>
 
